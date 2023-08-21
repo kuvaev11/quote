@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T22:58:11.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="k2UC8xpBYzMxTHlNFIdf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T23:05:46.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rxOry9ekJ1yAqIEwr3ix" version="21.6.8" type="github">
   <diagram name="Page-1" id="0unSTme753n7-SVdtSdP">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kEPCQ-b74v87bmFS_JCu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="450" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="kEPCQ-b74v87bmFS_JCu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kEPCQ-b74v87bmFS_JCu-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="340" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="kEPCQ-b74v87bmFS_JCu-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="226.75" width="50" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kEPCQ-b74v87bmFS_JCu-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="28" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
